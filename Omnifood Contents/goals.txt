@@ -1,0 +1,8 @@
+1. Goal of the project: Show what Omnifood does, how it works and in which cities it operates.
+Then, encourage clients to sign up for a subscription plan
+
+Audience: Busy people who don't have time to cook or don't enjoy cooking.
+
+2. Build a one page site containing info provided by Omnifood, with simple navigation
+content provided by Omnifood
+
